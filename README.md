@@ -23,8 +23,8 @@ To set up the project environment and run the application, follow these steps:
 1. **Clone the repository**
 
 ```bash
-   git clone https://github.com/yourusername/next-word-prediction.git
-   cd next-word-prediction
+   git clone https://github.com/Tanvi3004/Next-Word-Prediction-With-LSTM.git
+   cd Next-Word-Prediction-With-LSTM
 ```
 2. **Create a Python virtual environment**
 ```bash
